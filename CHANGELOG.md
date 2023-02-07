@@ -1,3 +1,12 @@
+## [1.2.2](https://github.com/cerico/contu/compare/v1.2.1...v1.2.2) (2023-02-07)
+
+
+### Bug Fixes
+
+* generate package.json so npm can publish ([c1b2e8f](https://github.com/cerico/contu/commit/c1b2e8fc632b1a6a13384468190c90847a773692))
+
+
+
 ## [1.2.1](https://github.com/cerico/contu/compare/v1.2.0...v1.2.1) (2023-02-07)
 
 
