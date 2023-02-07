@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/cerico/contu/compare/v1.2.0...v1.2.1) (2023-02-07)
+
+
+### Bug Fixes
+
+* combine github workflows into one ([668dbda](https://github.com/cerico/contu/commit/668dbdabd4ec8632bcf119ace5521fe0eeaf0c93))
+
+
+
 # [1.2.0](https://github.com/cerico/contu/compare/v1.1.0...v1.2.0) (2023-02-07)
 
 
